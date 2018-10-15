@@ -1,0 +1,14 @@
+html,
+body {
+  width: 100vw;
+  height: 100vh;
+  background-color: #f2f2f2;
+}
+
+h1 {
+
+  text-align: center;
+  color: #262626;
+  margin-top: 30vh;
+
+}
